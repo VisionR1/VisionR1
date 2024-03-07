@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I’m looking to collaborate on translate Android apps.
 <!--
 **VisionR1/VisionR1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

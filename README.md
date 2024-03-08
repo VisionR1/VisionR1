@@ -1,7 +1,10 @@
 ### Hi there 👋
 I’m looking to collaborate on translate Android apps.
 
-I'm the main translator in Greek in this great and powerful app App Cloner (https://appcloner.app/)
+I'm the main translator in Greek in this great and powerful app.
+
+<img src="https://appcloner.app/dist/assets/web_hi_res_512.png" width="50" height="50">
+App Cloner (https://appcloner.app/)
 <!--
 **VisionR1/VisionR1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

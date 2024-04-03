@@ -1,5 +1,6 @@
 ### Hi there 👋
 I’m looking to collaborate on translate Android apps.
+Here For Request For Greek Translation https://github.com/VisionR1/VisionR1/issues/1
 
 I'm the main translator in Greek in this great and powerful app.
 

@@ -9,7 +9,7 @@ Here For Request For Greek Translation https://github.com/VisionR1/VisionR1/issu
 - **All my life, I work with technology or anything related, beside technology, I am interested in painting and music as a hobby.**
 
 
-- **In general I like constructions, like I make different things like phone cases, and have made a ring out of wood and others in this field.**
+- **In general I like constructions, I make different things such as phone cases, and have made a rings out of wood and others in this field.**
 
 - **I like try to fix or modify anything i see.**
 
